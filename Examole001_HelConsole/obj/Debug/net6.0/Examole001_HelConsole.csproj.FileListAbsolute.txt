@@ -1,0 +1,15 @@
+D:\GIT\С# 1Лекция\Examole001_HelConsole\bin\Debug\net6.0\Examole001_HelConsole.exe
+D:\GIT\С# 1Лекция\Examole001_HelConsole\bin\Debug\net6.0\Examole001_HelConsole.deps.json
+D:\GIT\С# 1Лекция\Examole001_HelConsole\bin\Debug\net6.0\Examole001_HelConsole.runtimeconfig.json
+D:\GIT\С# 1Лекция\Examole001_HelConsole\bin\Debug\net6.0\Examole001_HelConsole.dll
+D:\GIT\С# 1Лекция\Examole001_HelConsole\bin\Debug\net6.0\Examole001_HelConsole.pdb
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.csproj.AssemblyReference.cache
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.AssemblyInfoInputs.cache
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.AssemblyInfo.cs
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.csproj.CoreCompileInputs.cache
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.dll
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\refint\Examole001_HelConsole.dll
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.pdb
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\Examole001_HelConsole.genruntimeconfig.cache
+D:\GIT\С# 1Лекция\Examole001_HelConsole\obj\Debug\net6.0\ref\Examole001_HelConsole.dll
